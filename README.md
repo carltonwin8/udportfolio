@@ -1,5 +1,14 @@
 ## Website Performance Optimization portfolio project
 
+This note from Carlton to himself. I used this repo to follow along the web page optimization course videos. I did some of the challenge in this repo which shows how I improved the website. So do not delete this repo as I can use it as a reference it the future for:
+
+ - optamizing other sites
+ - as a reference for the assignment on optimizing a similar site
+
+Old content of the site follows.
+
+## Website Performance Optimization portfolio project
+
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
 
 To get started, check out the repository, inspect the code,
